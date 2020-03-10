@@ -4,7 +4,8 @@
 Recast of https://juleetlily.com/ administration back-office
 
 ---- screnshots ----
-![Dashboard](https://github.com/gbasset/Paris-0919-P3-Jule-et-Lily/screenshots/dashboard_jule_et_lily.png)
+![Dashboard](./screenshots/dashboard_jule_et_lily.png)
+
 ----
 
 ## Technologies used 
